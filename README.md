@@ -8,7 +8,7 @@
 
 - **SafariTrip**: Get on a Safari "trip" and pimp up your browsing experience!
 
-More ~rainbow~~ rainbull shit to come!
+More ~~rainbow~~ rainbull shit to come!
 
 ## License
 
