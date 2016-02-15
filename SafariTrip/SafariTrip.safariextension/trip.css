@@ -1,0 +1,15 @@
+body {
+  animation: beautify 1s linear infinite !important;
+}
+
+@keyframes beautify {
+  from {
+    filter: hue-rotate(0);
+    -webkit-filter: hue-rotate(0);
+  }
+
+  to {
+    filter: hue-rotate(360deg);
+    -webkit-filter: hue-rotate(360deg);
+  }
+}
