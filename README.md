@@ -2,7 +2,7 @@
 
 # rainbull
 
-**Attention**: Contains awesome rainbow unicorn web bullshit!
+_**Attention**: Contains awesome rainbow unicorn web bullshit!_
 
 ## Ingredients
 
